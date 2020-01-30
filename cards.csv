@@ -52,7 +52,7 @@
 "Crow_hp","sc/ui.sc","health_icon","Crow",,1,,"hp",,,,,"common","TID_ARMOR","TID_ARMOR_STAT",,"genicon_health",,,
 "Crow_abi","sc/ui.sc","attack_icon","Crow",,2,,"skill","CrowWeapon",,,,"common","TID_CROW_WEAPON","TID_STAT_DAMAGE_PER_DAGGER",,"genicon_damage",,,
 "Crow_ulti","sc/ui.sc","ulti_icon","Crow",,3,,"skill","CrowUlti",,,,"common","TID_CROW_ULTI","TID_STAT_DAMAGE_PER_DAGGER",,"genicon_damage",,,
-"DeadMariachi_unlock","sc/ui.sc",,"DeadMariachi",,0,,"unlock",,,,,"rare",,,,,,203,
+"DeadMariachi_unlock","sc/ui.sc",,"DeadMariachi",,0,,"unlock",,,,,"mega_epic",,,,,,203,
 "DeadMariachi_hp","sc/ui.sc","health_icon","DeadMariachi",,1,,"hp",,,,,"common","TID_ARMOR","TID_ARMOR_STAT",,"genicon_health",,,
 "DeadMariachi_abi","sc/ui.sc","attack_icon","DeadMariachi",,2,,"skill","DeadMariachiWeapon",,,,"common","TID_DEAD_MARIACHI_WEAPON","TID_STAT_DAMAGE",,"genicon_damage",,,
 "DeadMariachi_ulti","sc/ui.sc","ulti_icon","DeadMariachi",,3,,"skill","DeadMariachiUlti",,,,"common","TID_DEAD_MARIACHI_ULTI","TID_STAT_HEAL",,"genicon_health",,,
